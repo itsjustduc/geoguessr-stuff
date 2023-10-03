@@ -13,4 +13,6 @@ feel free to also create an issue if a location is bugged!
 
 ### Brazil Phone Codes (W.I.P.)
 
-yet another one of these, mainly creating a new one, cause i didn't like any of the ones i've tried lol. i'm trying to put them in cities, but also making sure that no city or state name is visible on the NM view, so that one can practice without accidentally seeing where it is.
+yet another one of these, mainly creating a new one, cause i didn't like any of the ones i've tried lol. i'm trying to put them in cities, but also making sure that no city or state name is visible on the NM view, so that one can practice without accidentally seeing where it is. i also think most practice maps have had updated coverage on some locs? so i'm selecting specific coverages.
+
+progress: 1x phone numbers each have one
