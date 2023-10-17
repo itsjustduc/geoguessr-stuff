@@ -1,6 +1,8 @@
 # geomaps
 my geoguessr maps as json and geojson files
 
+publishing them so that if others want, they can make their own maps out of this, just use some locs for their maps, or use it outside geo (idk if there's any usecase for that, but if there's ever a geo alternative where you can import jsons, there you go, they're now usable).
+
 ## maps
 
 ### [Gorgeous Touge Roads](https://www.geoguessr.com/maps/6305565fde2667656468e9b2)
