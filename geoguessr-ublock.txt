@@ -1,0 +1,12 @@
+! bigger annoyances
+www.geoguessr.com##div[class^=header_promoDealButtonWrapper__] /* promo in header */
+www.geoguessr.com##button[class^=game-menu-button_button]:has-text(Shop) /* hiding the shop button from the home screen */
+www.geoguessr.com##div[class^=coin-count_root__] /* coin count on top right - redundant if profile_progression blocked */
+
+! more just cleaning up the site
+www.geoguessr.com##img[src^="/static/avatars/tiers"] /* tier indicator image around avatar */
+www.geoguessr.com##div[class^=startpage_avatarWrapper] /* avatar in the middle of the home page (including the current featured thing) */
+www.geoguessr.com##div[class^=footer_social] /* social media links from the footer */
+www.geoguessr.com##a[class^=happy-holidays-button_root__7Sn5y] /* holiday challenge in header */
+www.geoguessr.com##div[class^=profile_progression] /* name, level and coins in top right */
+www.geoguessr.com##div[class^=chat-friend_friend] /* friend list (i use this block for stream reasons) */

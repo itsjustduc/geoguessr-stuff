@@ -3,6 +3,13 @@ my geoguessr maps as json and geojson files (now also other stuff)
 
 publishing them so that if others want, they can make their own maps out of this, just use some locs for their maps, or use it outside geo (idk if there's any usecase for that, but if there's ever a geo alternative where you can import jsons, there you go, they're now usable).
 
+## ublock origin blocklist
+
+you need to have [uBlock Origin](https://ublockorigin.com/) (pay attention to the Origin part!) installed. to add the element blocks (each line is a new item), click on the addon in the toolbar and go to the dashboard (3 cogs). in theory, you might be able to import the [raw link](#) from the filter lists tab. but i have not tested this, and my blocks are pretty opinionated. so it's a better idea to go line-by-line and copy them into the text editing part of the "my filters" tab. every line has a note regarding what it blocks.
+lines that begin with `!` are "comments" and therefore will be ignored by uBO. if you want, you can copy paste the whole thing into your filters, and put `!` in front of the lines you don't need blocked.
+
+**NOTE: i don't use every single feature of geo. it is possible that these blocks accidentally block something unintended. if such is the case, please feel free to create an issue.**
+
 ## maps
 
 ### [Gorgeous Touge Roads](https://www.geoguessr.com/maps/6305565fde2667656468e9b2)
@@ -18,6 +25,8 @@ feel free to also create an issue if a location is bugged!
 yet another one of these, mainly creating a new one, cause i didn't like any of the ones i've tried lol. i'm trying to put them in cities, but also making sure that no city or state name is visible on the NM view, so that one can practice without accidentally seeing where it is. i also think most practice maps have had updated coverage on some locs? so i'm selecting specific coverages (google pls no panoid kil).
 
 progress: 1x phone numbers each have one
+
+update: i think the one [plonkit](https://www.plonkit.net/brazil) links is actually decent. probably not getting finished as a result.
 
 ## chatguessr flags
 
