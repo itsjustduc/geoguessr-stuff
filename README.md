@@ -5,7 +5,7 @@ publishing them so that if others want, they can make their own maps out of this
 
 ## ublock origin blocklist
 
-you need to have [uBlock Origin](https://ublockorigin.com/) (pay attention to the Origin part!) installed. to add the element blocks (each line is a new item), click on the addon in the toolbar and go to the dashboard (3 cogs). in theory, you might be able to import the [raw link](#) from the filter lists tab. but i have not tested this, and my blocks are pretty opinionated. so it's a better idea to go line-by-line and copy them into the text editing part of the "my filters" tab. every line has a note regarding what it blocks.
+you need to have [uBlock Origin](https://ublockorigin.com/) (pay attention to the Origin part!) installed. to add the element blocks (each line is a new item), click on the addon in the toolbar and go to the dashboard (3 cogs). in theory, you might be able to import the [raw link](https://github.com/itsjustduc/geoguessr-stuff/raw/main/geoguessr-ublock.txt) from the filter lists tab. but i have not tested this, and my blocks are pretty opinionated. so it's a better idea to go line-by-line and copy them into the text editing part of the "my filters" tab. every line has a note regarding what it blocks.
 lines that begin with `!` are "comments" and therefore will be ignored by uBO. if you want, you can copy paste the whole thing into your filters, and put `!` in front of the lines you don't need blocked.
 
 **NOTE: i don't use every single feature of geo. it is possible that these blocks accidentally block something unintended. if such is the case, please feel free to create an issue.**
