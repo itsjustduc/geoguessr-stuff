@@ -14,9 +14,9 @@ lines that begin with `!` are "comments" and therefore will be ignored by uBO. i
 
 ### [Gorgeous Touge Roads](https://www.geoguessr.com/maps/6305565fde2667656468e9b2)
 
-a collection of beautiful-looking roads that go through hills. has some hairpin turns (which is what might come to mind from the title), but also some less curvy mountain passes. it contains official coverage only. it should work fine on NMPZ, but the recommended way of playing it is NM.
+A collection of beautiful-looking roads that go through mountains/hills and are mostly paved. Has some hairpin turns (which is what might come to mind from the title), but also some less curvy mountain ways (often with nice panoramas). Official coverage only. It should work fine on NMPZ, but the recommended way of playing it is NM.  
 
-if you have locations for this, an issue is welcome with google maps links. NOTE: i do try to have the locations balanced between regions of the world, otherwise the difficulty and odds would be skewed. you can simply import them with map-making.app to see current distribution. only the locations with a _continent tag are exported to geoguessr.
+if you have locations for this, an issue is welcome with google maps links.
 
 feel free to also create an issue if a location is bugged!
 
