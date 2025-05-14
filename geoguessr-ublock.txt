@@ -10,6 +10,7 @@ www.geoguessr.com##div[class^=footer_social] /* social media links from the foot
 www.geoguessr.com##a[class^=happy-holidays-button_root__7Sn5y] /* holiday challenge in header */
 www.geoguessr.com##div[class^=profile_progression] /* name, level and coins in top right */
 www.geoguessr.com##div[class^=chat-friend_friend] /* friend list (i use this block for stream reasons) */
+www.geoguessr.com##div[class^=live-players-count_container] /* live players of current map */
 
 ! game changing
 www.geoguessr.com###panorama-container > div > .gm-style > div > div > div.gmnoprint > .gm-style-cc > div > span /* remove the copyright holder's name from the bottom right */
